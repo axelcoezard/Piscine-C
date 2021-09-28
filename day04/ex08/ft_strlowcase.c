@@ -1,24 +1,25 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_point.h                                         :+:      :+:    :+:   */
+/*   ft_strlowcase.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: acoezard <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/16 10:40:04 by acoezard          #+#    #+#             */
-/*   Updated: 2021/09/27 15:51:25 by acoezard         ###   ########.fr       */
+/*   Created: 2021/09/09 19:07:44 by acoezard          #+#    #+#             */
+/*   Updated: 2021/09/11 16:02:03 by acoezard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_POINT_H
-# define FT_POINT_H
-
-typedef struct s_point
+char	*ft_strlowcase(char *str)
 {
-	int		x;
-	int		y;
-}				t_point;
+	int		i;
 
-void	set_point(t_point *point);
-
-#endif
+	i = 0;
+	while (str[i] != '\0')
+	{
+		if (str[i] >= 65 && str[i] <= 90)
+			str[i] += 32;
+		i++;
+	}
+	return (str);
+}

@@ -1,24 +1,24 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_point.h                                         :+:      :+:    :+:   */
+/*   ft_str_is_alpha.c                                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: acoezard <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/16 10:40:04 by acoezard          #+#    #+#             */
-/*   Updated: 2021/09/27 15:51:25 by acoezard         ###   ########.fr       */
+/*   Created: 2021/09/09 17:07:10 by acoezard          #+#    #+#             */
+/*   Updated: 2021/09/11 13:53:20 by acoezard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef FT_POINT_H
-# define FT_POINT_H
-
-typedef struct s_point
+int	ft_str_is_alpha(char *str)
 {
-	int		x;
-	int		y;
-}				t_point;
-
-void	set_point(t_point *point);
-
-#endif
+	while (*str != '\0')
+	{
+		if (*str < 65 || *str > 122)
+			return (0);
+		if (*str > 90 && *str < 97)
+			return (0);
+		str++;
+	}
+	return (1);
+}
