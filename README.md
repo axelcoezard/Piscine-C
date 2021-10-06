@@ -7,13 +7,13 @@ Tous les projets de ma Piscine C de 42 Nice.
 
 ## Mes Notes
 
-| Projet   | Note     |     | Projet   | Note     |     | Projet     | Note     |
-| :------- | :------- | --- | :------- | :------- | --- | :--------- | :------- |
-| Day 00   | 100      |     | Day 08   | 100      |     | Rush 00    | 58       |
-| Day 01   | 100      |     | Day 09   | 60       |     | Rush 01    | 0        |
-| Day 02   | 100      |     | Day 10   | 100      |     | Rush 02    | 100      |
-| Day 03   | 100      |     | Day 11   | 100      |     | Exam 00    | 64       |
-| Day 04   | 65       |     | Day 12   | 35       |     | Exam 01    | 80       |
-| Day 05   | 100      |     | Day 13   | 100      |     | Exam 02    | 100      |
-| Day 06   | 100      |     | Day 14   |          |     | Exam final | 90       |
-| Day 07   | 100      |     | Day 15   |          |     |            |          |
+| Projet   | Status | Note     |     | Projet   | Status | Note     |     | Projet     | Status | Note     |
+| :------- | :----- | :------- | --- | :------- | :----- | :------- | --- | :--------- | :----- | :------- |
+| Day 00   | ✅     | 100      |     | Day 08   | ✅     | 100      |     | Rush 00    | ❌     | 58       |
+| Day 01   | ✅     | 100      |     | Day 09   | ✅     | 60       |     | Rush 01    | ❌     | 0        |
+| Day 02   | ✅     | 100      |     | Day 10   | ✅     | 100      |     | Rush 02    | ✅     | 100      |
+| Day 03   | ✅     | 100      |     | Day 11   | ✅     | 100      |     | Exam 00    | ✅     | 64       |
+| Day 04   | ✅     | 65       |     | Day 12   | ❌     | 35       |     | Exam 01    | ✅     | 80       |
+| Day 05   | ✅     | 100      |     | Day 13   | ✅     | 100      |     | Exam 02    | ✅     | 100      |
+| Day 06   | ✅     | 100      |     | Day 14   | ⌛     |          |     | Exam final | ✅     | 90       |
+| Day 07   | ✅     | 100      |     | Day 15   | ⌛     |          |
