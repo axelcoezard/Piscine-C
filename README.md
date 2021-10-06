@@ -16,4 +16,4 @@ Tous les projets de ma Piscine C de 42 Nice.
 | Day 04   | ✅     | 65       |     | Day 12   | ❌     | 35       |     | Exam 01    | ✅     | 80       |
 | Day 05   | ✅     | 100      |     | Day 13   | ✅     | 100      |     | Exam 02    | ✅     | 100      |
 | Day 06   | ✅     | 100      |     | Day 14   | ⌛     |          |     | Exam final | ✅     | 90       |
-| Day 07   | ✅     | 100      |     | Day 15   | ⌛     |          |
+| Day 07   | ✅     | 100      |     | Day 15   | ⌛     |          |     | BSQ        | ❌     | 1        |
