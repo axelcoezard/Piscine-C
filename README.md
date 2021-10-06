@@ -7,7 +7,7 @@ Tous les projets de ma Piscine C de 42 Nice.
 
 ## Mes days
 
-| Exercice | Resultat |     | Exercice | Resultat |
+|          | Note     |     |          | Note     |
 | :------- | :------- | --- | :------- | :------- |
 | Day 00   | 100      |     | Day 08   | 100      |
 | Day 01   | 100      |     | Day 09   | 60       |
