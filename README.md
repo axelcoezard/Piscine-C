@@ -17,3 +17,8 @@ Tous les projets de ma Piscine C de 42 Nice.
 | Day 05   | ✅     | 100      |     | Day 13   | ✅     | 100      |     | Exam 02    | ✅     | 100      |
 | Day 06   | ✅     | 100      |     | Day 14   | ⌛     |          |     | Exam final | ✅     | 90       |
 | Day 07   | ✅     | 100      |     | Day 15   | ⌛     |          |     | BSQ        | ❌     | 1        |
+
+## Licence
+
+Tous les sujets disponibles dans ce dépôt sont la propriété exclusive de 42 School.
+Toute reproduction, utilisation en dehors du cadre scolaire de 42, ou sans autorisation, est interdite et pourra être assimilée à une contrefaçon.
