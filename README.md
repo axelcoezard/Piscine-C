@@ -20,5 +20,7 @@ Tous les projets de ma Piscine C de 42 Nice.
 
 ## Licence
 
-Tous les sujets disponibles dans ce dépôt sont la propriété exclusive de 42 School.
+Tous mes projets ne sont soumis à aucunes licences.
+
+Tous les sujets .pdf disponibles dans ce dépôt sont la propriété exclusive de 42 School.
 Toute reproduction, utilisation en dehors du cadre scolaire de 42, ou sans autorisation, est interdite et pourra être assimilée à une contrefaçon.
