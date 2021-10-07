@@ -1,7 +1,6 @@
 # Piscine 42
 Tous les projets de ma Piscine C de 42 Nice.
 
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -18,9 +17,7 @@ Tous les projets de ma Piscine C de 42 Nice.
 | Day 06   | ✅     | 100      |     | Day 14   | ⌛     |          |     | Exam final | ✅     | 90       |
 | Day 07   | ✅     | 100      |     | Day 15   | ⌛     |          |     | BSQ        | ❌     | 1        |
 
-## Licence
-
-Tous mes projets ne sont soumis à aucune licence.
+## A propos des sujets
 
 Tous les sujets .pdf disponibles dans ce dépôt sont la propriété exclusive de 42 School.
 Toute reproduction, utilisation en dehors du cadre scolaire de 42, ou sans autorisation, est interdite et pourra être assimilée à une contrefaçon.
